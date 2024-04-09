@@ -1,0 +1,9 @@
+Tugas Pertama Code Igniter 
+Keiko Joceliandita
+4ITE1
+
+Link Github 
+https://github.com/walkeyzz/TugasPertamaCI
+
+Link URL Template
+https://w3layouts.com/template/simple-cv-a-personal-category-bootstrap-responsive-web-template/
